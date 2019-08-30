@@ -1,5 +1,6 @@
 package org.modelo.empleado;
 
 public class Empleado {
-ddded
+private int id;
+
 }
